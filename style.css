@@ -112,6 +112,7 @@ body{
     text-align: center;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 80px;
 
 }
     
@@ -120,4 +121,16 @@ body{
 }
 span{
     color: #E55473;
+}
+/* instragram section style code  */
+.instragram-container{
+    display: flex;
+    width: 1000px;
+    margin: 30px auto;
+    justify-content: space-between;
+    gap: 15px;
+    border-radius: 5px;
+}
+.intragram-image img{
+    width: 240px ;
 }
