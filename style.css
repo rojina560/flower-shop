@@ -150,3 +150,29 @@ span{
     border-radius: 5px;
     margin: 7px;
 }
+/* Customer-Testimonial-section code  */
+
+.Customer-Testimonial-container{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 120px 50px;
+    gap: 15px;
+    
+}
+.Testimonial-item{
+    width: 230px;
+    padding: 25px 5px;
+    text-align: center;
+    box-shadow: 10px 5px 10px hwb(347 43% 11%) ;
+    background:#E55473;
+    color: white;
+    border-radius: 5px;
+}
+.icon{
+    color: #ff9900 ;
+    padding: 10px 0;
+}
+.Testimonial-item p{
+  color: bisque;
+   padding-top: 10px;
+}
