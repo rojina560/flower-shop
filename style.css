@@ -103,7 +103,21 @@ body{
     background: rgba(39, 39, 39, 0.05);
     padding: 50px;
     gap: 40px;
+}
+/* hot deal section code  */
+.hot-deal-container{
+    display: flex;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 70px 220px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
 
+}
     
-
+.hot-deal-img img{
+    width: 200px;
+}
+span{
+    color: #E55473;
 }
